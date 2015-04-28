@@ -1,0 +1,196 @@
+{
+	"config":
+	{
+		"default_light_size": [5, 5],
+		"light_time": "0.5",
+		"large_pos_top_left": [-203, 145, 251]
+	},
+	"buttons":
+	[
+		{
+			"name": "AV",
+			"value": 99,
+			"command": "Video Track"
+		},
+		{
+			"name": "Power On",
+			"value": 100,
+			"command": "Power/kbd",
+			"large_pos": [10, 0, 7, 5]
+		},
+		{
+			"name": "1",
+			"value": 1,
+			"command": "1",
+			"large_pos": [1, 5, 4, 6]
+		},
+		{
+			"name": "2",
+			"value": 2,
+			"command": "2",
+			"large_pos": [6]
+		},
+		{
+			"name": "3",
+			"value": 3,
+			"command": "3",
+			"large_pos": [11]
+		},
+		{
+			"name": "4",
+			"value": 4,
+			"command": "4",
+			"large_pos": [1, 11, 4, 6]
+		},
+		{
+			"name": "5",
+			"value": 5,
+			"command": "5",
+			"large_pos": [6]
+		},
+		{
+			"name": "6",
+			"value": 6,
+			"command": "6",
+			"large_pos": [11]
+		},
+		{
+			"name": "7",
+			"value": 7,
+			"command": "7",
+			"large_pos": [1, 17, 4, 6]
+		},
+		{
+			"name": "8",
+			"value": 8,
+			"command": "8",
+			"large_pos": [6]
+		},
+		{
+			"name": "9",
+			"value": 9,
+			"command": "9",
+			"large_pos": [11]
+		},
+		{
+			"name": "0",
+			"value": 10,
+			"command": "0",
+			"large_pos": [6, 23, 4, 6]
+		},
+		{
+			"name": "red",
+			"value": 21,
+			"command": "AC Exit",
+			"large_pos": [0, 29, 5, 5]
+		},
+		{
+			"name": "blue",
+			"value": 22,
+			"command": "AC Search",
+			"large_pos": [11]
+		},
+		{
+			"name": "green",
+			"value": 23,
+			"command": "Context Menu",
+			"large_pos": [0, 40, 5, 5]
+		},
+		{
+			"name": "yellow",
+			"value": 24,
+			"command": "AC Properties",
+			"large_pos": [11]
+		},
+		{
+			"name": "up",
+			"value": 31,
+			"command": "Up",
+			"large_pos": [5, 30, 6, 4]
+		},
+		{
+			"name": "down",
+			"value": 32,
+			"command": "Down",
+			"large_pos": [5, 40, 6, 4]
+		},
+		{
+			"name": "left",
+			"value": 33,
+			"command": "Left",
+			"large_pos": [0, 34, 4, 6]
+		},
+		{
+			"name": "right",
+			"value": 34,
+			"command": "Right",
+			"large_pos": [12, 34, 4, 6]
+		},
+		{
+			"name": "ok",
+			"value": 35,
+			"command": "Enter",
+			"large_pos": [4, 34, 8, 6]
+		},
+		{
+			"name": "free",
+			"value": 40,
+			"command": "Task Manager",
+			"large_pos": [0, 45, 17, 8]
+		},
+		{
+			"name": "vol+",
+			"value": 50,
+			"command": "Vol+",
+			"large_pos": [1, 54, 4, 4]
+		},
+		{
+			"name": "mute",
+			"value": 60,
+			"command": "Mute",
+			"large_pos": [6]
+		},
+		{
+			"name": "chan+",
+			"value": 52,
+			"command": "Chan+",
+			"large_pos": [11]
+		},
+		{
+			"name": "vol-",
+			"value": 51,
+			"command": "Vol-",
+			"large_pos": [1, 60, 4, 4]
+		},
+		{
+			"name": "record",
+			"value": 61,
+			"command": "Record",
+			"large_pos": [6]
+		},
+		{
+			"name": "chan-",
+			"value": 53,
+			"command": "Chan-",
+			"large_pos": [11]
+		},
+		{
+			"name": "rewind",
+			"value": 70,
+			"command": "Rewind",
+			"large_pos": [0, 65, 6, 6]
+		},
+		{
+			"name": "play",
+			"value": 71,
+			"command": "Play",
+			"large_pos": [5, 67, 3, 6]
+		},
+		{
+			"name": "fast forward",
+			"value": 72,
+			"command": "FastForward",
+			"large_pos": [11, 65, 6, 6]
+		}
+	]
+}
